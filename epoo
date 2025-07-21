@@ -20,7 +20,7 @@ cd snarkOS
 
 ./build_ubuntu.sh
 
-cargo install --path 1 4 5
+cargo install --path 1 4 5 2
 cd $HOME/roll
 
 mkdir demo_deploy_Leo_app && cd demo_deploy_Leo_app
